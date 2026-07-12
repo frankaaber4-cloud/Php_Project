@@ -1,4 +1,4 @@
-# Php_Project
+# EduPro Hub
 ### A Collaborative Students  Project Management Platform for Uganda Institute of Information and Communications Technology.
 
 ## Project Overview
